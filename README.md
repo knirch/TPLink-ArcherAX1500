@@ -67,6 +67,10 @@ Thanks
 - [Matteo Croce](https://teknoraver.net/) [TP-LINK The Unreliable Choice](https://teknoraver.net/software/hacks/tplink/)
 - [shreve](https://gist.github.com/shreve) [TP-Link Router Config](https://gist.github.com/shreve/7a6413f087c15b233a69bb46edcfec17)
 
+Oh, never mind, this was already done:
+
+- [acc-](https://github.com/acc-) [tplink-archer-c2300](https://github.com/acc-/tplink-archer-c2300/wiki/Backup-Restore-config-files)
+
 
 Bugs
 ----
